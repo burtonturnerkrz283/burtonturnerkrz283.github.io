@@ -1,0 +1,8 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://burtonturnerkrz283.github.io/burtonturnerkrz283_github_io_zp528_10.txt
+Sitemap: https://burtonturnerkrz283.github.io/burtonturnerkrz283_github_io_zp528_16.txt
+Sitemap: https://burtonturnerkrz283.github.io/burtonturnerkrz283_github_io_zp528_21.txt
+Sitemap: https://burtonturnerkrz283.github.io/burtonturnerkrz283_github_io_zp528_27.txt
+Sitemap: https://burtonturnerkrz283.github.io/burtonturnerkrz283_github_io_zp528_7.txt
